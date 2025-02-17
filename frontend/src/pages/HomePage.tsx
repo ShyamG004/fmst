@@ -23,7 +23,7 @@ const HomePage = () => {
   const navItems = [
     { icon: <FaChartLine className="w-5 h-5" />, label: "Dashboard", id: 'dashboard' },
     { icon: <FaUserCircle className="w-5 h-5" />, label: "Profile", id: 'profile' },
-    { icon: <FaGraduationCap className="w-5 h-5" />, label: "Education Qualification", id: 'education' },
+    { icon: <FaGraduationCap className="w-5 h-5" />, label: "Education", id: 'education' },
     { icon: <FaNewspaper className="w-5 h-5" />, label: "Journal", id: 'journal' },
     { icon: <FaBook className="w-5 h-5" />, label: "Publications", id: 'publications' },
     { icon: <FaCog className="w-5 h-5" />, label: "Settings", id: 'settings' }
